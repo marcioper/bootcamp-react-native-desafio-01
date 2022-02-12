@@ -6,7 +6,7 @@ Crie uma aplicação do zero e configure o ESLint, EditorConfig, Reactotron, Rea
 
 Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layout tentando chegar o mais próximo possível da imagem acima.
 
-## Regras
+## Regras  
 
 - O layout deve ser criado utilizando apenas os componentes `<View />`, `<Text />` e `<ScrollView />` do React Native;
 - A caixa branca com o título “Aprendendo React Native” deve estar separada em outro componente chamado Post, o mesmo deve estar em outro arquivo chamado Post.js.
